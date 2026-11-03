@@ -8,7 +8,9 @@ I built this for colleagues who are new to AI and preparing for the NCA-GENL exa
 
 ## How to use
 
-Download `index.html` and double-click it. It runs in Chrome, Edge or Whale with no install, no server and no internet.
+**Try it in your browser:** https://woojinjeon820-ui.github.io/nca-genl-study-hub/
+
+Or download `index.html` and double-click it. It runs in Chrome, Edge or Whale with no install, no server and no internet.
 
 ## What's inside
 
